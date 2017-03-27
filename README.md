@@ -8,7 +8,7 @@
 ### [wander](http://wander.leanote.com/) 
 
 ## 15级成员
-### [annoy](http://www.cumter.cn/)  *链接出错*
+### [annoy](http://www.cumter.cn/)  
 ### [sail](http://www.sail.name/)  
 ### [severusy](https://severusy.github.io/)
 ### [mclee](http://blog.leanote.com/mclee)
