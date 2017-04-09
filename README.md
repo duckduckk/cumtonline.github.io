@@ -22,7 +22,7 @@
 
 ## 15级后端成员
 ### [李长航](http://www.sail.name/)
-### [李明灿]ttp://blog.leanote.com/mclee)
+### [李明灿](http://blog.leanote.com/mclee)
 ### [王梦圆](https://severusy.github.io/)
 
 
