@@ -13,6 +13,9 @@
 
 ## 15级前端成员
 ### [韩震](http://www.cumter.cn/)
+### [汤洪亮](http://blog.csdn.net/qq_417143864)
+### [陈伶俐](http://blog.csdn.net/qq_38294039)
+### [金晶](http://blog.csdn.net/qq_29549685)
 
 ## 15级移动成员
 ### [黄果普](http://blog.csdn.net/fikry)
@@ -29,7 +32,6 @@
 ************
 
 ## 16级后端成员
-### [刘雅旋](https://watson2333.github.io/)
 ### [胡炜](https://qzdchw.github.io/)
 ### [宋建成](https://icbtbo.github.io/)
 ### [吴健勋](http://wuya00.top/)
@@ -41,5 +43,12 @@
 ### [于仁杰](http://blog.csdn.net/cumtdeyurenjie)
 
 ## 16级前端成员
+
+### [李鑫](http://blog.csdn.net/victormomo)
+### [罗俏俏](https://alan199.github.io/)
+### [焦磊](http://write.blog.csdn.net/postlist)
+### [周宇滕](http://xirose.online/)
+### [李驰](https://icestains.github.io/#blog)
+### [陈萱](https://my.csdn.net/vickyyyya)
 
 
