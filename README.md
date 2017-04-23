@@ -1,6 +1,8 @@
 # blog
 >收集工作室新老成员博客,把博客主页的链接+名字更新在这里
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/cumtflyingstudioblog/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ### [flyingstudio](http://blog.flyingstudio.online/)
 
 ## 14级成员
