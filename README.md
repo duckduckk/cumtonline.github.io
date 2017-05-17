@@ -19,6 +19,7 @@
 
 ## 15级移动成员
 ### [黄果普](www.unfamous.cn)
+### [周宇峰](https://zerosyf.github.io/)
 ### [张津菁](http://blog.csdn.net/ginny_7)
 ### [高鹏](http://blog.csdn.net/qq_36709150)
 ### [王会茹](http://blog.csdn.net/csdn5211314)
