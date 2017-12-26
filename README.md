@@ -1,5 +1,6 @@
 # blog
 >收集工作室新老成员博客,把博客主页的链接+名字更新在这里
+(无内容会定期清理
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/cumtflyingstudioblog/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -37,21 +38,15 @@
 ## 16级后端成员
 ### [胡炜](https://qzdchw.github.io/)
 ### [宋建成](https://icbtbo.github.io/)
-### [吴健勋](http://wuya00.top/)
-### [张肖飞](http://flywinky.top/)
+### [张肖飞](http://blog.flywinky.top)
 
 ## 16级移动成员
-### [李红卫](http://blog.csdn.net/chris_5201)
-### [邢远](http://blog.csdn.net/xingyuan1998)
+### [邢远](http://blog.chpz527.cn)
 ### [于仁杰](http://blog.csdn.net/cumtdeyurenjie)
 
 ## 16级前端成员
 
 ### [李鑫](http://blog.csdn.net/victormomo)
-### [罗俏俏](https://alan199.github.io/)
 ### [焦磊](http://blog.csdn.net/qq_36407723)
 ### [周宇滕](http://xirose.online/)
 ### [李驰](https://icestains.github.io/#blog)
-### [陈萱](https://my.csdn.net/vickyyyya)
-
-
