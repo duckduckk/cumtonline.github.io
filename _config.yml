@@ -4,8 +4,6 @@
 
 # Site
 title: 翔工作室
-subtitle: 一个团队，一个博客
-description:
 author: flyingstudio
 language: zh-CN
 timezone:
@@ -60,14 +58,20 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+archive_generator:
+    per_page: 15
+    yearly: false
+    monthly: false
+    daily: false
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huno
+theme: polarbear
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github2:cumtonline/cumtonline.github.io.git
+  repo: ssh://git@flyingstudio/cumtonline/cumtonline.github.io
   branch: master

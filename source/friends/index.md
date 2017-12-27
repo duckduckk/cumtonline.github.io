@@ -1,14 +1,17 @@
 ---
-title: 友情链接
+title: 成员博客
 date: 2017-1-12
 
 ---
 
-- [dozer](https://www.dozer.cc)<input type='hidden' value='08-龚昱阳'/>
-- [晋哥哥的私房钱](http://jingege.me/)
-- [书豪](http://www.caosh.me/)<input type='hidden' value='07-曹书豪'/>
-- [浊酒](http://blog.xujif.com/)<input type='hidden' value='09-许继峰'/>
-- [rainman](http://www.cnblogs.com/rainman/)
-- [卡基猫](https://darkerthanblack.org)<input type='hidden' value='10-学叔李孝通'/>
-- [Coderec](http://coderec.cn/)<input type='hidden' value='11-崔宝森'/>
-- [圈里圈外](http://www.circleblog.net/)<input type='hidden' value='10-刘磊'/>
+昵称 | 链接
+----|----
+晋哥哥的私房钱 | [http://jingege.me](http://jingege.me/)
+dozer(08届) | [https://www.dozer.cc](https://www.dozer.cc/) 
+书豪(07届) | [http://www.caosh.me](http://www.caosh.me/)
+浊酒(09届) | [http://blog.xujif.com](http://blog.xujif.com/)
+rainman | [http://www.cnblogs.com/rainman](http://www.cnblogs.com/rainman/)
+卡基猫(10届) | [https://darkerthanblack.org](https://darkerthanblack.org)
+Coderec(11届) | [http://coderec.cn](http://coderec.cn/)
+圈里圈外(10届) | [http://www.circleblog.net](http://www.circleblog.net/)
+近届汇总 | [https://github.com/cumtflyingstudio/blog](https://github.com/cumtflyingstudio/blog)
