@@ -3,14 +3,9 @@ title: 内部图书馆
 date: 2016-12-28 13:12:33
 tags:
 category: 历史项目
-typora-copy-images-to: former-libary
 ---
 
-
-
 # 项目简介
-
-
 
 - 项目名称:翔工作室图书馆
 - 项目时间:2010-11-27
@@ -24,11 +19,11 @@ typora-copy-images-to: former-libary
 
 **登入**
 
-![1482906214209](former-libary\1482906214209.png)
+![1482906214209](https://s1.ax1x.com/2017/12/28/z9Xfe.png)
 
 **添加图书**
 
-![1482906234097](former-libary\1482906234097.png)
+![1482906234097](https://s1.ax1x.com/2017/12/28/z9z6A.png)
 
 利用豆瓣图书的标示码,后台抓取豆瓣页面,解析页面字符串保存到数据库中
 
@@ -36,7 +31,7 @@ typora-copy-images-to: former-libary
 
 **全部图书**
 
-![1482906355690](former-libary\1482906355690.png)
+![1482906355690](https://s1.ax1x.com/2017/12/28/z9vSH.png)
 
 
 
@@ -44,7 +39,7 @@ typora-copy-images-to: former-libary
 
 
 
-![1482906300847](former-libary\1482906300847.png)
+![1482906300847](https://s1.ax1x.com/2017/12/28/zCSOI.png)
 
 该项目有简单的权限管理
 
@@ -52,7 +47,7 @@ typora-copy-images-to: former-libary
 
 **我的图书**
 
-![1482906388528](former-libary\1482906388528.png)
+![1482906388528](https://s1.ax1x.com/2017/12/28/z9xld.png)
 
 
 

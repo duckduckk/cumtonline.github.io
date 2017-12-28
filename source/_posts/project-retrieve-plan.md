@@ -3,11 +3,7 @@ title: 历史项目找回计划
 date: 2016-12-28 13:17:42
 tags:
 category: 历史项目
-typora-copy-images-to: project-retrieve-plan
 ---
-
-
-
 
 
 # 缘起
@@ -28,25 +24,20 @@ typora-copy-images-to: project-retrieve-plan
 
 我已知的最早项目整理是2009年 阿king做的
 
-![1482903855070](project-retrieve-plan\1482903855070.png)
-
-
+![z94sj](https://s1.ax1x.com/2017/12/28/z94SJ.png)
 
 但图中所示的`F:\svnhome` 早已不见了,但在111服务中还是能见到SVN库,我将整个库复制到本机再导出源码发现只剩下面几个了
 
-![1482904346891](project-retrieve-plan\1482904346891.png)
+![1482904346891](https://s1.ax1x.com/2017/12/28/z9WYF.png)
 
 
 
 最近一次的项目统计是正能量(印象中是李程学长)做的.
 
-![1482904186005](project-retrieve-plan\1482904186005.png)
-
+![1482904186005](https://s1.ax1x.com/2017/12/28/z9fW4.png)
 
 
 同年还是第二年服务器爆了,网站丢失.
-
-
 
 
 
@@ -58,8 +49,3 @@ typora-copy-images-to: project-retrieve-plan
 - 文档站页面
 - 博雅苑(网站目录,源码似乎没有)
 - 视频站页面
-
-
-
-
-

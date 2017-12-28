@@ -1,7 +1,7 @@
 ---
 title: 第6-7周总结
 date: 2016-11-14  20:36:37
-tags:
+tags: 单元测试
 category: Web技术交流群
 ---
 
@@ -13,11 +13,9 @@ category: Web技术交流群
 
 简单地说用代码测试代码
 
- 
-
 每种语言都有自己的测试框架,功能大同小异
 
- 
+
 
 C#中的单元测试
 
@@ -25,13 +23,7 @@ C#中的单元测试
 
 1.创建一个工程,和一个(类库/包)项目
 
-
-
-
-
-{% asset_img "image2016-11-14 13-11-2.png "%}
-
-
+![image2016-11-14 13-11-2](https://s1.ax1x.com/2017/12/28/zkGUx.png)
 
 2.写一个简单的方法
 
@@ -56,15 +48,9 @@ namespace TestObject
 
 下面被TestMethod标记的方法则是测试方法,VS的测试工具(测试资源管理器)会自动扫描你写的带TestMethod的代码并显示出来
 
-{% asset_img "image2016-11-14 13-12-27.png"%}
+![image2016-11-14 13-12-27](https://s1.ax1x.com/2017/12/28/zkmCT.png)
 
-{% asset_img "image2016-11-14 13-16-42.png"%}
-
-
-
- 
-
-
+![image2016-11-14 13-16-42](https://s1.ax1x.com/2017/12/28/zkEEq.png)
 
 ``` csharp
 [TestClass()]
@@ -89,17 +75,13 @@ public class FirstObjectTests
 
 可以通过VS的工具来执行一个或多个的测试
 
-{% asset_img "image2016-11-14 13-18-16.png"%}
+![image2016-11-14 13-18-16](https://s1.ax1x.com/2017/12/28/zkZ5V.png)
 
 
 
 4. 测试结果
 
-{% asset_img "image2016-11-14 13-18-31.png"%}
-
-
-
-
+![image2016-11-14 13-18-31](https://s1.ax1x.com/2017/12/28/zkVU0.png)
 
 
 测试框架中有专门的代码用于测试,比如上面的Assert类,该类除了断言相当还有
@@ -150,10 +132,6 @@ public class FirstObjectTests
 
 [怎么单元测试](https://www.zhihu.com/question/27313846)
 
- 
-
- 
-
 ## 网站压力测试
 
 **WebTest特性质量开发平台**
@@ -165,7 +143,7 @@ public class FirstObjectTests
 - 最高支持30000并发测试 (测试时请关闭DDos防御机制,因为测试机器人都是同一个IP一定会被监测到的)
 - 支持配置测试场景
 
- 
+
 
 **测试场景**
 
@@ -188,11 +166,7 @@ public class FirstObjectTests
 
 官方地址[http://www.ikende.com/httptest](http://www.ikende.com/httptest)
 
-
-
 其实就是一个简单地自动请求url的工具,不需要写任何代码,只要是windows系统装了.Net Framework就能使用,操作简单,功能少.
-
- 
 
 [阿里性能测试服务](https://pts.aliyun.com/lite/index.htm?spm=5176.2020520153.0.0.5wrV7N)
 

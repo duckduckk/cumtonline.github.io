@@ -1,7 +1,7 @@
 ---
 title: 第4-5周总结
 date: 2016-10-31 20:29:23
-tags:
+tags: 单点登入
 category: Web技术交流群
 ---
 
@@ -9,7 +9,7 @@ category: Web技术交流群
 
 工作室要弄一个用户中心,以后所有开发的应用用户都集中到这个用户中心里.以前工作室用的是UCenter,discuz同一家公司开发的,discuz的用户就是集成到这个UCenter,而且UCenter能独立运行并支持其他应用集成到上面.当该项目自从2011后就不更新了,用的数据传输格式还是XML,而且官方不提供非PHP的SDK,大都是第三方开发的,而[.Net版的SDK](https://github.com/dozer47528/UCenter-API-For-DotNet)就是由工作室10级站长开发
 
- 
+
 
 作为喜新厌旧的程序狗,我尝试着换新的开源单点登入系统,后来找到国外著名的开源项目CAS,然后开始折腾.....最后放弃了,网站已经运行起来了,但是那并不适合工作室(反正我很讨厌),那就是在子应用登入时必须跳转到CAS提供的登入页面中登入,再跳转回来.而且这个默认的登入页面定制起来还颇为麻烦,html代码是混在jsp中的.虽然网上有一两篇博文介绍了解决方案,但我知(ying)难(yu)而(bu)退(hao)了准备转回UCenter
 
@@ -21,11 +21,7 @@ category: Web技术交流群
 
 # 简单的单点案例
 
-
-
-{% asset_img "image2016-10-31 9-52-31.png "%}
-
-
+![image2016-10-31 9-52-31](https://s1.ax1x.com/2017/12/28/zkJ56.png)
 
 
 
@@ -33,7 +29,7 @@ category: Web技术交流群
 
 # CAS的单点
 
-{% asset_img "image2016-10-31 1-24-28.png "%}
+![image2016-10-31 1-24-28](https://s1.ax1x.com/2017/12/28/zktPK.png)
 
 
 
@@ -45,7 +41,7 @@ category: Web技术交流群
 
 # UCenter的单点登入
 
-{% asset_img "image2016-10-31 1-24-59.png "%}
+![image2016-10-31 1-24-59](https://s1.ax1x.com/2017/12/28/zkN8O.png)
 
 
 
@@ -53,7 +49,7 @@ category: Web技术交流群
 
 下面的这个script标签组的范例,图中可以看到有两个标签,能让客户的隐式地访问其他子应用并登入到其他子应用 
 
-{% asset_img "image2016-10-31 1-25-11.png "%}
+![image2016-10-31 1-25-11](https://s1.ax1x.com/2017/12/28/zkU2D.png)
 
 
 # 参考资料
@@ -61,10 +57,6 @@ category: Web技术交流群
 [细说SSO单点登录](http://www.cnblogs.com/yubaolee/p/sso.html) 
 [采用CAS原理构建单点登录](http://www.cnblogs.com/shanyou/archive/2009/08/30/1556659.html) 
 [深入研究 UCenter API](http://www.dozer.cc/2011/01/ucenter-api-in-depth-1st.html)
-
- 
-
- 
 
  
 

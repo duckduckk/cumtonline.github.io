@@ -3,7 +3,6 @@ title: 下载站
 date: 2017-01-25 10:04:13
 tags:
 category: 历史项目
-typora-copy-images-to: download2009
 ---
 
 
@@ -46,39 +45,37 @@ typora-copy-images-to: download2009
 
 **首页**
 
-![1485314734687](download2009\1485314734687.png)
+![1485314734687](https://s1.ax1x.com/2017/12/28/zCVpQ.png)
 
 
 
 **资料**
 
-![1485314788818](download2009\1485314788818.png)
+![1485314788818](https://s1.ax1x.com/2017/12/28/zCFk8.png)
 
 
 
 **软件**
 
-![1485314820293](download2009\1485314820293.png)
+![1485314820293](https://s1.ax1x.com/2017/12/28/zCAfg.png)
 
 
 
 **影视**
 
-![1485314854082](download2009\1485314854082.png)
-
-
+![1485314854082](https://s1.ax1x.com/2017/12/28/zCZlj.png)
 
 
 
 **我要上传**
 
-![1485314914341](download2009\1485314914341.png)
+![1485314914341](https://s1.ax1x.com/2017/12/28/zCPTf.png)
 
 
 
 **交流区**
 
-![1485314966075](download2009\1485314966075.png)
+![1485314966075](https://s1.ax1x.com/2017/12/28/zCktS.png)
 
 
 

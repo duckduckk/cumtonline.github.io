@@ -1,9 +1,8 @@
 ---
 title: 第1周总结
 date: 2016-9-30 
-tags:
+tags: [微信小程序,htts]
 category: Web技术交流群
-
 ---
 
 # 主要内容
@@ -59,7 +58,7 @@ category: Web技术交流群
 
 
 <video controls width='100%'>
-<source src="{% asset_path MITM.mp4 %}" type="video/mp4">
+<source src="https://cumtonline.github.io/MITM.mp4" type="video/mp4">
 <source src="movies/movie.ogv" type="video/ogv">
 <source src="movies/movie.webm" type="video/webm">
 ​	Your browser does not support the video tag.

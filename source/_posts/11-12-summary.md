@@ -1,22 +1,21 @@
 ---
 title: 第11-12周总结
 date: 2016-12-16 21:29:43
-tags:
+tags: [Git,Typora]
 category: Web技术交流群
-typora-copy-images-to: 11-12-summary
 ---
 
 # Git
 
 ## 加快git clone速度的方法
 
-![getImage](11-12-summary\getImage.png)
+![getImage](https://s1.ax1x.com/2017/12/28/zCmXn.png)
 
 
 
 ## 一张图展示所有Git命令
 
-![QQ图片20161216213304](11-12-summary\QQ图片20161216213304.jpg)
+![QQ图片20161216213304](https://s1.ax1x.com/2017/12/28/zCe6s.jpg)
 
 
 
@@ -41,11 +40,11 @@ Typora不提供云存储，但是他尽可能地简化了插入步骤
 
 - 拖拽式
 
-  ![drag-img](11-12-summary\drag-img.gif)
+  ![drag-img](https://s1.ax1x.com/2017/12/28/zCK00.gif)
 
 - 截图式
 
-  ![1](11-12-summary\1.gif)
+  ![1](https://s1.ax1x.com/2017/12/28/zCM7V.gif)
 
 
 
@@ -53,7 +52,7 @@ Typora不提供云存储，但是他尽可能地简化了插入步骤
 
 如果想用相对路径请在Preference设置`Use relative path if possible`
 
-![1482037425302](11-12-summary\1482037425302.png)
+![1482037425302](https://s1.ax1x.com/2017/12/28/zCumq.png)
 
 如果想用截图式,**必须**勾选上图的第二项,**并且**在每次编辑时设置一个文件路径,这个文件路径告诉Typora要把剪贴板中的图片保存到哪里,Windows版的设置选项在Edit->Image Tool->When insert local image->Copy Image File to Folder->选择文件夹
 

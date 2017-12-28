@@ -1,7 +1,7 @@
 ---
 title: 第8-9-10周总结
 date: 2016-12-16 20:44:22
-tags:
+tags: [GIT,工作流]
 category: Web技术交流群
 
 ---
@@ -114,7 +114,7 @@ git rebase --continue
 
 
 
- 
+
 
 # Git工作流
 
@@ -146,20 +146,16 @@ git大部分的用途是软件开发，它的基本动作是：推送，拉取�
 
 就拿最典型的**Gitflow**工作流举例子
 
-
-
-{% asset_img "image2016-12-4 11-27-4.png "%}
-
+![image2016-12-4 11-27-4](https://s1.ax1x.com/2017/12/28/zFOHI.png)
 
 
 
- 
+
+
 
 开发时都在Develop分支上开发，开发时能创建若干个Feature分支，用于项目的某个功能开发。开发到一定阶段时候就能用Release分支发布版本。Release分支上不再有大的变动，一般就是微小的跳转和bug修复。当该版本完善后即可推送到Master上。
 
 在版本发布后如果有bug出现，则创建Hotfix分支进行维护，Hotfix上的修改可以合并到master分支和develop分支。
-
- 
 
  
 
@@ -169,33 +165,26 @@ git大部分的用途是软件开发，它的基本动作是：推送，拉取�
 
 最好用的Git客户端SourceTree提供了这种工作流的便捷操作
 
-{% asset_img "image2016-12-4 11-37-8.png "%}
+![image2016-12-4 11-37-8.png](https://s1.ax1x.com/2017/12/28/zFHjH.png)
 
-
- {% asset_img "image2016-12-4 11-36-25.png "%}
-
-
+![image2016-12-4 11-36-25](https://s1.ax1x.com/2017/12/28/zFLDA.png)
 
 
 点击Git工作流，设置分支的名字
 
-
-
- {% asset_img "image2016-12-4 11-39-32.png "%}
+![image2016-12-4 11-39-32](https://s1.ax1x.com/2017/12/28/zFjEt.png)
 
 
 
 自动创建develop分支并切换到该分支
 
- {% asset_img "image2016-12-4 11-40-17.png "%}
+![image2016-12-4 11-40-17](https://s1.ax1x.com/2017/12/28/zFvUP.png)
 
 
 
 在develop下的动作有
 
-
-
- {% asset_img "image2016-12-4 11-35-51.png"%}
+![image2016-12-4 11-35-51](https://s1.ax1x.com/2017/12/28/zFqud.png)
 
 一般的流程是,在develop建立新的功能,功能完成后合并到delelop,当合适的时候建立新的发布版本,然后再发布版本,SourceTree会自动的在这次发布上打上标签.
 

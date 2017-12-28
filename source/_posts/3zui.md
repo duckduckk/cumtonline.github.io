@@ -20,14 +20,14 @@ typora-copy-images-to: 3zui
 
 前台
 
-![image2016-9-22 19-5-22](3zui\image2016-9-22 19-5-22.png)
+![image2016-9-22 19-5-22](https://s1.ax1x.com/2017/12/28/zk0rd.png)
 
 
 
-![image2016-9-22 19-6-22](3zui\image2016-9-22 19-6-22.png)
+![image2016-9-22 19-6-22](https://s1.ax1x.com/2017/12/28/zkrVI.png)
 
 
 
 后台
 
-![image2016-9-22 19-7-49](3zui\image2016-9-22 19-7-49.png)
+![image2016-9-22 19-7-49](https://s1.ax1x.com/2017/12/28/zkBqA.png)
