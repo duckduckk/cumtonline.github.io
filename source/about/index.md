@@ -1,8 +1,9 @@
 ---
-title: 
+title:
 date: 2016-11-30 18:08:11
 ---
-### **[中国矿业大学学生在线团队首页](http://flyingstudio.online/)**
+
+### **[迎新首页](http://flyingstudio.online/)**
 
 ### ** 工作室旗下部分产品 **
 - [矿大导航网(学校内网访问)](http://online.cumt.edu.cn/)

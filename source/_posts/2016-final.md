@@ -5,8 +5,6 @@ category: Web技术交流群
 tags:
 ---
 
-
-
 # 知识共享协议
 
 开源协议猿猿都懂,就不多说了,补充说下,[这篇文章](http://www.cnblogs.com/Wayou/p/how_to_choose_a_license.html)写得不错。
