@@ -3,7 +3,7 @@ title:
 date: 2016-11-30 18:08:11
 ---
 
-### **[迎新首页](http://flyingstudio.online/)**
+### **[首页](https://atcumt.com/)**
 
 ### ** 工作室旗下部分产品 **
 - [矿大导航网(学校内网访问)](http://online.cumt.edu.cn/)
