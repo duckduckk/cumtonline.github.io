@@ -44,7 +44,7 @@
 <meta property="og:description" content="为什么选择了NodeBB?我也不知道~~~  NodeBB官方Github NodeBB中文论坛 NodeBB官方文档 NodeBB中文文档 安装 此处的方式是Docker安装部署(https://hub.docker.com/r/nodebb/docker/)不用考虑环境配置问题，但是相应的也会有一些弊端比如文件的修改等变得麻烦  下方为nodebb镜像的YAML123456789cumt:">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://s1.ax1x.com/2018/06/04/CTdQVH.md.png">
-<meta property="og:updated_time" content="2018-06-03T16:40:21.139Z">
+<meta property="og:updated_time" content="2018-06-03T17:00:18.441Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="nodebb搭建,维护,DZ数据迁移">
 <meta name="twitter:description" content="为什么选择了NodeBB?我也不知道~~~  NodeBB官方Github NodeBB中文论坛 NodeBB官方文档 NodeBB中文文档 安装 此处的方式是Docker安装部署(https://hub.docker.com/r/nodebb/docker/)不用考虑环境配置问题，但是相应的也会有一些弊端比如文件的修改等变得麻烦  下方为nodebb镜像的YAML123456789cumt:">
@@ -183,6 +183,13 @@
 <h3 id="可能遇到的问题"><a href="#可能遇到的问题" class="headerlink" title="可能遇到的问题"></a>可能遇到的问题</h3><ul>
 <li>论坛一直显示断开连接<br>这时候你需要修改容器config.json里面的url为你的自定义域名</li>
 </ul>
+<h2 id="版本升级"><a href="#版本升级" class="headerlink" title="版本升级"></a>版本升级</h2><blockquote>
+<p>nodebb并不好升级，按照官方文档的操作我们需要首先备份数据库和用户上传文件<br>但是我们使用了docker几句可以避免这些问题<br>然后我们要做的就是更新docker镜像并重新生成容器，配置相应的数据库就行了</p>
+</blockquote>
+<ul>
+<li>需要注意的是我们生成新的容器后要停用一切插件以防nodebb系统直接崩溃</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./nodebb reset -a</span><br></pre></td></tr></table></figure>
 <h2 id="数据库维护和备份"><a href="#数据库维护和备份" class="headerlink" title="数据库维护和备份"></a>数据库维护和备份</h2><blockquote>
 <p>定时备份数据库并迁移到其他机器是件很重要的事情<a href="https://www.kancloud.cn/a632079/nodebb-cn/373544" target="_blank" rel="noopener">数据库备份</a></p>
 </blockquote>
